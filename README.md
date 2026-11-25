@@ -1,2 +1,3 @@
 # App-Dev-Course
-My First Project
+My First code
+Author: Zeenat Batool 
